@@ -1,6 +1,5 @@
 body { 
         font-family:arial;
-        background-color: white;
      }
 p{
   position:relative;
