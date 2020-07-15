@@ -1,6 +1,7 @@
-body { font-family:arial;
+body { 
+        font-family:arial;
         background-color: white;
-      }
+     }
 p{
   position:relative;
   top : 10px;
